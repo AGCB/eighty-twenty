@@ -1,3 +1,7 @@
 .profile-page {
-  border: 3px solid green;
+  border: 1px solid white;
+}
+
+.stats {
+  list-style: none;
 }

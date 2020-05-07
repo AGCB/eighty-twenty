@@ -35,7 +35,10 @@ function App() {
           </Switch>
         </div>
       </Router>
-
+      <footer style={{"position":"fixed", "bottom": "0"}}>
+        <span>insert shnazzy footer here.
+          <a href="https://www.youtube.com/watch?v=YnhI_ECOAK4">partyTime</a> for now</span>
+      </footer>
     </div>
   );
 }
