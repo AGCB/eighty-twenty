@@ -1,0 +1,7 @@
+.menu-bar-list {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  list-style: none;
+  margin-left: -40px;
+}
